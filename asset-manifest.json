@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d545112e.css",
+    "main.js": "/static/js/main.e4559f81.js",
+    "static/media/bannar2.jpg": "/static/media/bannar2.e92aec9f3b3292ed7358.jpg",
+    "static/media/bannar3.jpg": "/static/media/bannar3.2209315c39d85668b3e2.jpg",
+    "static/media/dark.jpg": "/static/media/dark.cee9c61280d63b97c824.jpg",
+    "static/media/depoint-bg1.png": "/static/media/depoint-bg1.7d94a8def4b2fbabe2c5.png",
+    "static/media/consultation.svg": "/static/media/consultation.ede9466b3634733f30c8d1a1b7bbe939.svg",
+    "static/media/EtherFi.png": "/static/media/EtherFi.0a0954fd62bc67490d42.png",
+    "static/media/Swell.png": "/static/media/Swell.a6f1d27b40e86bf33551.png",
+    "static/media/hosting.svg": "/static/media/hosting.b755d3eebb287dde8fcd287cb1d5653e.svg",
+    "static/media/KelpDAO.png": "/static/media/KelpDAO.41b6e87d322bb3eef4a1.png",
+    "static/media/app.svg": "/static/media/app.3d550d02d3409ad587451a91e97e78fb.svg",
+    "static/media/kws.png": "/static/media/kws.877da8110793af2c3d27.png",
+    "static/media/Web-developer.svg": "/static/media/Web-developer.6c7276fff94ccaae45617195f0ef27ae.svg",
+    "static/media/web.svg": "/static/media/web.bceccecdef8e71bd5a8d73effe14fdba.svg",
+    "index.html": "/index.html",
+    "main.d545112e.css.map": "/static/css/main.d545112e.css.map",
+    "main.e4559f81.js.map": "/static/js/main.e4559f81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d545112e.css",
+    "static/js/main.e4559f81.js"
+  ]
+}
